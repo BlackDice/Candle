@@ -1,0 +1,21 @@
+{
+  "name": "candle",
+  "description": "Simple simulation of random candle flicker.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "./lib/candle.js",
+  "keywords": [
+    "candle",
+    "flicker"    
+  ],
+  "author": {
+    "name": "David Eskel Spohr"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+}
